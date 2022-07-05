@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zetromex
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on google
+- 💞️ I’m looking to work with google
 - 📫 How to reach me "zetromex@gmail.com"
 
 <!---
